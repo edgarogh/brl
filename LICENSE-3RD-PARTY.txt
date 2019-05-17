@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------------
+This library's core feature is based on code shared by Eric 
+(https://stackoverflow.com/users/102441/eric) in a StackOverflow answer: 
+https://stackoverflow.com/a/10608048/5554145
+
+Thanks to him for his big indirect contribution !
+
+Code uploaded on the StackExchange network is licensed under CC-BY-SA.
+https://stackoverflow.blog/2009/06/25/attribution-required/
+--------------------------------------------------------------------------------

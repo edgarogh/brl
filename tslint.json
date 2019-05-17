@@ -1,0 +1,21 @@
+{
+    "rules": {
+        "indent": [
+            true,
+            "spaces",
+            4
+        ],
+        "quotemark": [
+            true,
+            "single"
+        ],
+        "trailing-comma": [
+            true,
+            {
+                "multiline": "always",
+                "singleline": "never"
+            }
+        ],
+        "semicolon": true
+    }
+}

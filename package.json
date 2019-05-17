@@ -2,7 +2,7 @@
   "name": "brl",
   "version": "0.0.1",
   "description": "readline wrapper that supports background logging",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "prepare": "tsc"
   },

@@ -1,6 +1,6 @@
 {
   "name": "brl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "readline wrapper that supports background logging",
   "main": "dist/index.js",
   "scripts": {
